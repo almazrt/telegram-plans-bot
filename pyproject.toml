@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Telegram bot for managing plans and tasks"
 requires-python = ">=3.11"
 dependencies = [
+    "pyinstaller>=6.18.0",
     "python-telegram-bot>=21.0",
 ]
 
